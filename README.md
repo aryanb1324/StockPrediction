@@ -1,2 +1,4 @@
-# StockPrediction
-predicts stocks using a new form of rnns. just a little experiment
+# Stock Prediction App
+(WIP)
+
+Created this project in order to learn more about RNNs and GRUs
